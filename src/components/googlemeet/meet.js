@@ -20,7 +20,7 @@ function Meet()
      }
      const stopHandler= ()=> {
         stopRecording() 
-        setIsRecord(true)
+        setIsRecord(true) 
      }
 
     useEffect(()=>{
